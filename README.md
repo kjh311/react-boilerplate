@@ -6,4 +6,4 @@ REACT BOILERPLATE with Sass and Bootstrap 4
 
 TO START:
 * npm install
-create .env, 
+* create .env, 
