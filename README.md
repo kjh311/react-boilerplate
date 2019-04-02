@@ -1,7 +1,9 @@
-Creating a Art Prompt Generator Using:
+REACT BOILERPLATE with Sass and Bootstrap 4
 
-* React
+
 * Bootstrap 4
 * node-sass
-* Firebase Database
-<!-- * Axios HTTP Request -->
+
+TO START:
+* npm install
+create .env, 
